@@ -79,8 +79,6 @@ Used for:
 
 ---
 
----
-
 ## Dataset Information
 - Real-world inspired fraud transaction dataset
 - 30,000+ transaction records
