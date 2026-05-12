@@ -79,13 +79,6 @@ Used for:
 
 ---
 
-## Technologies Used
-- MySQL
-- SQL
-- MySQL Workbench
-- Git
-- GitHub
-
 ---
 
 ## Dataset Information
