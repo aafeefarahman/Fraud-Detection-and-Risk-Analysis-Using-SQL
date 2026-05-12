@@ -1,6 +1,5 @@
 <img width="1956" height="319" alt="image" src="https://github.com/user-attachments/assets/9367ad71-3ea5-43da-9c47-4b86bc9c2e7b" />
 
-# Fraud Detection & Risk Analysis Using SQL
 
 ## Project Overview
 This project focuses on analyzing and detecting fraudulent transaction patterns using SQL on a large-scale transaction dataset. The project simulates real-world fraud investigation workflows used in fintech, banking, and e-commerce systems by applying behavioral analysis, transaction monitoring, and rule-based risk detection techniques.
