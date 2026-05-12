@@ -1,3 +1,5 @@
+<img width="1956" height="319" alt="image" src="https://github.com/user-attachments/assets/9367ad71-3ea5-43da-9c47-4b86bc9c2e7b" />
+
 ```md id="5l2wrf"
 ## Objectives
 - To investigate and analyze fraudulent transaction behavior using SQL on a real-world inspired transaction dataset
